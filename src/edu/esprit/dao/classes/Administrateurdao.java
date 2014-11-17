@@ -6,14 +6,14 @@ package edu.esprit.dao.classes;
 
 
 
-/*import edu.esprit.entities.administrateur;
+import edu.esprit.entities.administrateur;
 import edu.esprit.technique.dataSource;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.logging.Level;
-import java.util.logging.Logger;*/
+import java.util.logging.Logger;
 
 /**
  *
