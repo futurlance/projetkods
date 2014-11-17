@@ -10,7 +10,7 @@ package edu.esprit.entities;
  */
 public class Proposition {
     
-    private int id;
+   /* private int id;
     private String titre;
     private String description;
     private String dure_estime;
@@ -21,7 +21,7 @@ public class Proposition {
     private String competence;
     private String statut;
     public Proposition() {
-    }
+    }*/
 
     public Proposition(int id, String titre, String description, String dure_estime, String date_debut, String date_fin, float budget, Categorie cat, String competence,String statut) {
         this.id = id;
